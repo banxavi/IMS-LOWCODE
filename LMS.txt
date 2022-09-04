@@ -1,0 +1,13 @@
+INTERNAL MANAGEMENT SYSTEM
+
+- Admin: Quản lý nhân viên, Quiz, quản lý task.
+- User: Làm quiz, nhận tasks, làm tasks, update status
+
+Màn hình: Login, Homepage(Admin (Card Status, Table Last Submitted), (User(Table task in day, Notifications),
+
+Admin: QLNV ( Thêm, sửa, xóa, tìm kiếm)
+	Quiz ( Thêm, sửa, xóa, tìm kiếm, type, filter)
+	QL Tasks NV( Xem status, detail, Disable function những NV đã nhận task chỉ  việc xem, và có thể CRUD những tasks mới)
+User:
+	Quiz(làm câu hỏi theo admin assign, show điểm)
+	Task( Show task của chính user, update status)
